@@ -1,7 +1,7 @@
 ## Analysis_Cafe_Sales
 Cafe Sales - Dirty Data for Cleaning Training  
 
-Link:https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training  
+Link: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training  
 
 Dirty Cafe Sales Dataset  
 Overview  
